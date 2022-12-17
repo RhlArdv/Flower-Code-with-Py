@@ -59,6 +59,6 @@ window.bgcolor("black")
 t.speed(100)
 drawPhyllPattern(t, 250, 200, 137.5077641)
 t.penup()
-t.write("for u mutiara")
+t.write("for u Someone") #bisa ganti nama crush kamu atau bisa dihapus untuk baris ini
 
 turtle.mainloop()
